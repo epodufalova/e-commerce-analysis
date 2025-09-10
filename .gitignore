@@ -1,1 +1,2 @@
-./data/raw/olist.sqlite
+data/
+notebooks/.ipynb_checkpoints
