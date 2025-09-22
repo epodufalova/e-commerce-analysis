@@ -38,15 +38,15 @@ The notebooks folder contains Jupyter notebooks that perform:
 
 Below are some screenshots of the Tableau dashboards created as part of this project:
 
-> *These visualizations are located in the `dashboards/tableau` directory.*
+> *These visualizations are located in the `dashboards/tableau/screenshots` directory.*
 
-### Dashboard Snapshot 1
+### Dashboard 1
 
 ![Dashboard 1 — Sales Overview](dashboards/tableau/screenshots/executive_overview.png)
 
 *Caption: Example of overall sales trends over time, showing monthly revenue, orders count, and average order value.*
 
-### Dashboard Snapshot 2
+### Dashboard 2
 
 ![Dashboard 2 — Customer Analysis](dashboards/tableau/screenshots/customer_analysis.png)
 
