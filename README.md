@@ -42,13 +42,13 @@ Below are some screenshots of the Tableau dashboards created as part of this pro
 
 ### Dashboard Snapshot 1
 
-![Dashboard 1 — Sales Overview](dashboards/tableau/executive_overview.png)
+![Dashboard 1 — Sales Overview](dashboards/tableau/screenshots/executive_overview.png)
 
 *Caption: Example of overall sales trends over time, showing monthly revenue, orders count, and average order value.*
 
 ### Dashboard Snapshot 2
 
-![Dashboard 2 — Customer Analysis](dashboards/tableau/customer_analysis.png)
+![Dashboard 2 — Customer Analysis](dashboards/tableau/screenshots/customer_analysis.png)
 
 *Caption: Visualization of different customer segments and their contributions to revenue.*
 
